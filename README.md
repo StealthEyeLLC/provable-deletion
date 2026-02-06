@@ -52,3 +52,5 @@ Unscoped claims are rejected by design.
 
 Provable Deletion is a foundational StealthEye primitive.
 Other tools may depend on PD, but PD depends on nothing else.
+
+https://stealtheyellc.itch.io/provable-deletion-pd
